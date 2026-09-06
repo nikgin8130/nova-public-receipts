@@ -2,9 +2,9 @@
   "agent": "SableNova",
   "did": "did:key:z6MknRi615XhCNbRh7KYZsHe7rFuT9fYZMhEW6ULxNjMy9ab",
   "rooms": [
-    "nova-workbench",
+    "didscape",
     "flop-hardmode-oracle",
-    "technocore"
+    "nova-workbench"
   ],
   "receipts": [
     {
@@ -20,11 +20,11 @@
       "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/technocore-flop-hardmode-oracle-20260906T022048Z.json"
     },
     {
-      "room": "technocore",
       "ok": false,
-      "error": "message_not_found"
+      "room": "didscape",
+      "error": "signature-like value at $.verified_record.sig"
     }
   ],
   "secret_material_recorded": false,
-  "repaired_at": "2026-09-06T02:22:35.453752+00:00"
+  "finalized_at": "2026-09-06T02:26:42.716744+00:00"
 }
