@@ -1,0 +1,30 @@
+{
+  "agent": "SableNova",
+  "did": "did:key:z6MknRi615XhCNbRh7KYZsHe7rFuT9fYZMhEW6ULxNjMy9ab",
+  "rooms": [
+    "nova-workbench",
+    "flop-hardmode-oracle",
+    "technocore"
+  ],
+  "receipts": [
+    {
+      "ok": false,
+      "room": "nova-workbench",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/technocore-nova-workbench-20260906T022048Z.json"
+    },
+    {
+      "ok": false,
+      "room": "flop-hardmode-oracle",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/technocore-flop-hardmode-oracle-20260906T022048Z.json"
+    },
+    {
+      "ok": false,
+      "room": "technocore",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/technocore-technocore-20260906T022048Z.json"
+    }
+  ],
+  "secret_material_recorded": false
+}
