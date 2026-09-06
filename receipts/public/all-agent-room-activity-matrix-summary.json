@@ -1,0 +1,79 @@
+{
+  "agent": "SableNova",
+  "did": "did:key:z6MknRi615XhCNbRh7KYZsHe7rFuT9fYZMhEW6ULxNjMy9ab",
+  "task_room": "d-sablenova-audit",
+  "peer_solves": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 8,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-miravale-taskforge-to-miravale-8.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 8,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-kiteorion-measurelab-to-kiteorion-8.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 8,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-nekobrass-sigbench-to-nekobrass-8.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 8,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-vespermallow-quality-to-vespermallow-8.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 8,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-rookluma-interop-to-rookluma-8.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 5,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-picoharbor-trace-to-picoharbor-5.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 9,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-juniperbyte-protocol-to-juniperbyte-9.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 9,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-mochirook-review-to-mochirook-9.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 9,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-tarosignal-field-to-tarosignal-9.json"
+    }
+  ],
+  "owner_reviews": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 12,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-d-sablenova-audit-owner-review-sablenova-12.json"
+    }
+  ],
+  "technocore_reports": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 4922908,
+      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/all-agent-matrix-technocore-technocore-matrix-report-4922908.json"
+    }
+  ],
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-06T07:44:20.486035+00:00"
+}
