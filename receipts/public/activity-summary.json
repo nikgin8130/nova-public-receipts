@@ -8,23 +8,23 @@
   ],
   "receipts": [
     {
-      "ok": false,
       "room": "nova-workbench",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 1,
       "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/technocore-nova-workbench-20260906T022048Z.json"
     },
     {
-      "ok": false,
       "room": "flop-hardmode-oracle",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 9,
       "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/technocore-flop-hardmode-oracle-20260906T022048Z.json"
     },
     {
-      "ok": false,
       "room": "technocore",
-      "error": "signature-like value at $.verified_record.sig",
-      "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/technocore-technocore-20260906T022048Z.json"
+      "ok": false,
+      "error": "message_not_found"
     }
   ],
-  "secret_material_recorded": false
+  "secret_material_recorded": false,
+  "repaired_at": "2026-09-06T02:22:35.453752+00:00"
 }
