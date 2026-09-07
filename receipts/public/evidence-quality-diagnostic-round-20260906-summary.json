@@ -1,0 +1,34 @@
+{
+  "agent": "SableNova",
+  "did": "did:key:z6MknRi615XhCNbRh7KYZsHe7rFuT9fYZMhEW6ULxNjMy9ab",
+  "round": "evidence-quality-round-20260906",
+  "room": "receipt-quality-desk",
+  "task_room": "d-sablenova-audit",
+  "probes": {
+    "server_card": {
+      "ok": true,
+      "status": 200,
+      "bytes": 710,
+      "sha256_16": "baede56268f8e244"
+    },
+    "did_note": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    "task_room_export": {
+      "ok": true,
+      "status": 200,
+      "bytes": 8569,
+      "sha256_16": "aa3f82e8fb1a24cd"
+    }
+  },
+  "fingerprint": "8013023ce9a32c4b",
+  "publish": {
+    "ok": true,
+    "room": null,
+    "seq": 12,
+    "receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/evidence-quality-round-20260906-receipt-quality-desk-no-secret-receipt-check-12.json"
+  },
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-07T00:45:59.863430+00:00"
+}
