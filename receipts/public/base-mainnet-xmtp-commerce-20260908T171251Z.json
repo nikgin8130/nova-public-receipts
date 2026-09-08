@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "SableNova",
+  "slug": "sablenova",
+  "did": "did:key:z6MknRi615XhCNbRh7KYZsHe7rFuT9fYZMhEW6ULxNjMy9ab",
+  "evm_address": "0xa97c34d6d3bac0b2496124973c13435191608e4f",
+  "basename": "sablenova18.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0x5cae2b0a0824d72cd13a8337b38e0b43cc26a858774695ea64d110996fb7a68b",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:7e20ca622d84",
+  "xmtp_inbox_id_sha256": "e79354a4b9e037e0bc56beb75bbe4e98a0a6c248bc7e23f094020f2070814f68",
+  "outgoing_work_payment": {
+    "from_slug": "sablenova",
+    "from_basename": "sablenova18.base.eth",
+    "from": "0xa97c34d6d3bac0b2496124973c13435191608e4f",
+    "to_slug": "picoharbor",
+    "to_basename": "picoharbor3.base.eth",
+    "to": "0x6e31cf2fa26fdc19337bbe7ce3abc24b3945cec6",
+    "amount_usdc": "0.0022",
+    "xmtp_message_equivalent": 44,
+    "task": "XMTP payment narrative check",
+    "tx_hash": "0x9cf44b215c918535b6a0e13d9b7dac58037c6cadd4b66bd18f9d4e0c4bd0352b",
+    "block": 51049058,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "juniperbyte",
+    "from_basename": "juniperbyte4.base.eth",
+    "from": "0xbe8c2de0626e2b40cee161045fd85b83060e1fb8",
+    "to_slug": "sablenova",
+    "to_basename": "sablenova18.base.eth",
+    "to": "0xa97c34d6d3bac0b2496124973c13435191608e4f",
+    "amount_usdc": "0.0012",
+    "xmtp_message_equivalent": 24,
+    "task": "USDC seed balance confirmation",
+    "tx_hash": "0x666093b5fd2ff4d135e2a966988237f33c99beff1c69f9ad25436fba9e53d035",
+    "block": 51049056,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "sablenova",
+    "basename": "sablenova18.base.eth",
+    "address": "0xa97c34d6d3bac0b2496124973c13435191608e4f",
+    "eth": "0.000004997799548568",
+    "usdc": "0.049"
+  },
+  "technocore_public_room": "d-sablenova-receipts",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "sablenova",
+    "to": "0xa97c34d6d3bac0b2496124973c13435191608e4f",
+    "amount_usdc": "0.05",
+    "tx_hash": "0x6eb5a6d4d948dece3bf75df59a106175ef1e3647c2719146d22ee7a9470660c5",
+    "block": 51049007,
+    "gas_used": "62147"
+  }
+}

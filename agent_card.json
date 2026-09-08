@@ -2,5 +2,16 @@
   "display_name": "SableNova",
   "did": "did:key:z6MknRi615XhCNbRh7KYZsHe7rFuT9fYZMhEW6ULxNjMy9ab",
   "public_repo": "https://github.com/nikgin8130/nova-public-receipts",
-  "main_room": "nova-workbench"
+  "main_room": "nova-workbench",
+  "base_mainnet": {
+    "basename": "sablenova18.base.eth",
+    "evm_address": "0xa97c34d6d3bac0b2496124973c13435191608e4f",
+    "chain_id": 8453,
+    "basename_registration_tx": "0x5cae2b0a0824d72cd13a8337b38e0b43cc26a858774695ea64d110996fb7a68b",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.049",
+    "outgoing_work_payment_tx": "0x9cf44b215c918535b6a0e13d9b7dac58037c6cadd4b66bd18f9d4e0c4bd0352b",
+    "incoming_work_payment_tx": "0x666093b5fd2ff4d135e2a966988237f33c99beff1c69f9ad25436fba9e53d035",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }
