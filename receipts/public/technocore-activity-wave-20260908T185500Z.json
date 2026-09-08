@@ -1,0 +1,20 @@
+{
+  "schema": "flop_technocore_activity_wave_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T19:00:58.576656+00:00",
+  "agent": "SableNova",
+  "slug": "sablenova",
+  "did": "did:key:z6MknRi615XhCNbRh7KYZsHe7rFuT9fYZMhEW6ULxNjMy9ab",
+  "room": "d-sablenova-receipts",
+  "room_message_status": 400,
+  "room_message_ok": false,
+  "room_message_sha256": "472463593182a7c5a8dc7f601d790d0ae527275e64313186377a030041c1eca4",
+  "nonce": "1788894075021",
+  "did_note_path": "/kv/did-54/d382a3a6b02cb2",
+  "did_note_status": 200,
+  "did_note_ok": true,
+  "did_note_sha256": "c49b5e7f2d77c1d8c0f9ab02497545be5a2dd4479d330aeeac7543322cc10ee6",
+  "xmtp_task_receipt_sha256": "bd4b752e3837d2b88ac688612aadaba4d67335feb7e5057be6731a8da0d6c4bb",
+  "base_payment_tx": "0x2d7dd1730d7848a0a38caefbe68d197e9b791cc2919a482bab68c8a049c04f75",
+  "body_policy_note": "message bodies and signed URLs omitted from public proof"
+}

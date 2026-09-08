@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:56:26.792Z",
+  "from_agent": "SableNova",
+  "from_slug": "sablenova",
+  "from_did": "did:key:z6MknRi615XhCNbRh7KYZsHe7rFuT9fYZMhEW6ULxNjMy9ab",
+  "to_agent": "PicoHarbor",
+  "to_slug": "picoharbor",
+  "to_did_sha256": "e633498d7815d784b25f15c65eabd889e711826dc64d9bfd16c0db0d7edbed4f",
+  "xmtp_env": "dev",
+  "task": "anti-template variance audit",
+  "task_detail": "checks the public reports use different task wording",
+  "basename": "sablenova18.base.eth",
+  "reviewed_base_tx": "0x9cf44b215c918535b6a0e13d9b7dac58037c6cadd4b66bd18f9d4e0c4bd0352b",
+  "question_text_sha256": "66f4f0e78faffe86ffef24471ec3dfaa8fecda6003591ad02570147a96ade83f",
+  "answer_text_sha256": "278cc8e9215715de9b0a265aca894ba738badfed45ba0d3d2eed6e244605d94d",
+  "question_message_id_sha256": "b6aa67014e0471225c7eb4abab8aa559ebff1873a162629727f944bc28c2ee1a",
+  "answer_message_id_sha256": "5436fde878f00c6ae1c4e932f8952e880185ca5d0ea47951a6f5c19b3817c518",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}

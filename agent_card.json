@@ -26,5 +26,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/sablenova/receipts/public/xmtp-task-review-picoharbor-20260908T185500Z.json",
+      "base_payment_tx": "0x2d7dd1730d7848a0a38caefbe68d197e9b791cc2919a482bab68c8a049c04f75",
+      "technocore_room": "d-sablenova-receipts",
+      "technocore_message_sha256": "472463593182a7c5a8dc7f601d790d0ae527275e64313186377a030041c1eca4",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }

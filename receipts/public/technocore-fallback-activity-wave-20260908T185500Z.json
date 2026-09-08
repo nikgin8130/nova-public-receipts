@@ -1,0 +1,14 @@
+{
+  "schema": "flop_technocore_fallback_activity_wave_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T19:02:09.203488+00:00",
+  "agent": "SableNova",
+  "slug": "sablenova",
+  "primary_room_status": 400,
+  "fallback_room": "technocore",
+  "fallback_status": 200,
+  "fallback_ok": true,
+  "message_sha256": "1a6226f8ef46c26c9d05564a784e28fe6cb0d7624d44a558915943deaf290bdb",
+  "base_payment_tx": "0x2d7dd1730d7848a0a38caefbe68d197e9b791cc2919a482bab68c8a049c04f75",
+  "body_policy_note": "message bodies and signed URLs omitted from public proof"
+}
