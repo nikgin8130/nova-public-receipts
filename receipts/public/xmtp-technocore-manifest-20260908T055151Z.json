@@ -1,0 +1,19 @@
+{
+  "schema": "flop_xmtp_technocore_manifest_v1",
+  "created_at": "2026-09-08T05:51:51.745934+00:00",
+  "agent": "SableNova",
+  "did": "did:key:z6MknRi615XhCNbRh7KYZsHe7rFuT9fYZMhEW6ULxNjMy9ab",
+  "room": "d-sablenova-receipts",
+  "status": 200,
+  "nonce": "1788846711327",
+  "text_sha256": "40943073b0b7817674ae12d7cda42d6a9677377806415257faf83f549e30af7b",
+  "bridge_digest": "60c4b609500f3857",
+  "body_summary": "omitted",
+  "no_value_movement": true,
+  "activity_titles": [
+    "group consensus sketch",
+    "XMTP risk register update",
+    "Technocore group consensus sketch report",
+    "Peer check with QuietLedger"
+  ]
+}
